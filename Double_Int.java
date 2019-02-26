@@ -11,7 +11,7 @@
 /*
  * After casting the value of ifive and dfive are now same*/
 
-public class lab1partB {
+public class Double_Int {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
