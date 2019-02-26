@@ -1,12 +1,12 @@
 
 
-class Customer{
+class FlightCustomer{
 	
 	String name;
 	String phoneNumber;
 	double earnedMileage;
 	
-	public Customer(String name, String phoneNumber, double earnedMileage) {
+	public FlightCustomer(String name, String phoneNumber, double earnedMileage) {
 		this.name = name;
 		this.phoneNumber = phoneNumber;
 		this.earnedMileage = earnedMileage;
