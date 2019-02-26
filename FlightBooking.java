@@ -1,13 +1,13 @@
 import java.util.*;
 
-class Booking{
+class FlightBooking{
 	
 	
 	public static void main(String[] args ){
 		Scanner scan = new Scanner(System.in);
 		
-		Customer customer1 = new Customer("Divyannshu","3126578394",4200);
-		Customer customer2 = new Customer("Daniel","312746827",3600);
+		FlightCustomer customer1 = new FlightCustomer("Divyannshu","3126578394",4200);
+		FlightCustomer customer2 = new FlightCustomer("Daniel","312746827",3600);
 
 		System.out.println("---------------- Enter your Flight Details Here ------------------");
 		
