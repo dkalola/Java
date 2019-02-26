@@ -1,7 +1,7 @@
 
 // Part A of Lab 2
 
-public class Lab2PartA {
+public class OrderofOpereation {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
