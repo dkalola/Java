@@ -3,7 +3,7 @@ import javax.swing.JFrame; // includes JFrame
 import javax.swing.JTextField; // includes JTextField
 import javax.swing.JButton; // includes JButton
 
-public class Lab2PartB{
+public class Jframe_Jbutton{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
