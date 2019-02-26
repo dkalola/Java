@@ -8,7 +8,7 @@
  * answer is 1715.0000000000002 ~ 1715.0
  */
 
-public class lab1partA {
+public class Multiply {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
