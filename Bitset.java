@@ -1,7 +1,7 @@
 // Includes question 1 to 3
 import java.util.*;
 
-public class Lab3PartA {
+public class Bitset {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
