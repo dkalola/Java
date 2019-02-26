@@ -12,7 +12,7 @@
  * */
 
 
-public class lab1partB3 {
+public class Double_Int {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
